@@ -3,22 +3,26 @@
     {
       "id": 1,
       "nome": "Playstation 4",
-      "preco": 2000
+      "preco": 2000,
+      "imgUrl": "https://i.zst.com.br/thumbs/12/2c/3f/165939772.jpg"
     },
     {
       "id": 2,
       "nome": "DualSense",
-      "preco": 450
+      "preco": 450,
+      "imgUrl": "https://a-static.mlcdn.com.br/1500x1500/controle-dualsense-playstation-5-ps5/magazineluiza/043186600/ac16d7d4124447ded6524e43d8831afd.jpg"
     },
     {
       "id": 3,
       "nome": "HeadSet sem fio",
-      "preco": 450
+      "preco": 450,
+      "imgUrl": "https://s2.glbimg.com/tjrMAEg5yqRWkUoQPC9BEaqiDIw=/0x0:1600x900/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2020/A/u/ZBkWVTSAG9U0iQRKplyg/pusel2.jpg"
     },
     {
       "id": 4,
-      "nome": "Horizon West Forbbiden",
-      "preco": 399
+      "nome": "Horizon West Forbidden",
+      "preco": 399,
+      "imgUrl": "https://upload.wikimedia.org/wikipedia/pt/e/e5/Horizon_Forbidden_West.jpg"
     }
   ],
   "maisvendidos": [
@@ -41,6 +45,36 @@
       "id": 4,
       "nome": "Horizon West Forbbiden",
       "preco": 399
+    }
+  ],
+  "detalhesproduto": [
+    {
+      "id": 1,
+      "nome": "Playstation 4",
+      "preco": 2000,
+      "descricao": "lorem Ipsum",
+      "imgUrl": "https://i.zst.com.br/thumbs/12/2c/3f/165939772.jpg"
+    },
+    {
+      "id": 2,
+      "nome": "DualSense",
+      "preco": 450,
+      "descricao": "lorem Ipsum",
+      "imgUrl": "https://a-static.mlcdn.com.br/1500x1500/controle-dualsense-playstation-5-ps5/magazineluiza/043186600/ac16d7d4124447ded6524e43d8831afd.jpg"
+    },
+    {
+      "id": 3,
+      "nome": "HeadSet sem fio",
+      "preco": 450,
+      "descricao": "lorem Ipsum",
+      "imgUrl": "https://s2.glbimg.com/tjrMAEg5yqRWkUoQPC9BEaqiDIw=/0x0:1600x900/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2020/A/u/ZBkWVTSAG9U0iQRKplyg/pusel2.jpg"
+    },
+    {
+      "id": 4,
+      "nome": "Horizon West Forbbiden",
+      "preco": 399,
+      "descricao": "lorem Ipsum",
+      "imgUrl": "https://upload.wikimedia.org/wikipedia/pt/e/e5/Horizon_Forbidden_West.jpg"
     }
   ]
 }
