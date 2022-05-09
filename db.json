@@ -1,0 +1,46 @@
+{
+  "ofertas": [
+    {
+      "id": 1,
+      "nome": "Playstation 4",
+      "preco": 2000
+    },
+    {
+      "id": 2,
+      "nome": "DualSense",
+      "preco": 450
+    },
+    {
+      "id": 3,
+      "nome": "HeadSet sem fio",
+      "preco": 450
+    },
+    {
+      "id": 4,
+      "nome": "Horizon West Forbbiden",
+      "preco": 399
+    }
+  ],
+  "maisvendidos": [
+    {
+      "id": 1,
+      "nome": "Playstation 5",
+      "preco": 5000
+    },
+    {
+      "id": 2,
+      "nome": "DualSense",
+      "preco": 450
+    },
+    {
+      "id": 3,
+      "nome": "HeadSet sem fio",
+      "preco": 450
+    },
+    {
+      "id": 4,
+      "nome": "Horizon West Forbbiden",
+      "preco": 399
+    }
+  ]
+}
